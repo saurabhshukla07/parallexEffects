@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+p{
+    color: #fff;
+   
+}
+section{
+    height: 100vh;
+    width: 100%;
+    display: grid;
+    align-items: center;
+    text-shadow: 2px 2px 5px #000;
+    font-size: 64px;
+    place-items: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3));
+}
+.one{
+    background-image: url(./images/milky-way-8999255_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-attachment: fixed;
+
+}
+.two{
+    background-image: url(./images/monument-6387465_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+
+}
+.three{
+    background-image: url(./images/fog-8208493_1280.jpg);
+    background-repeat: no-repeat;
+    background-size:100% auto;
+background-attachment: fixed;
+}
+.four{
+    background-image: url(./images/motorcycle-8306765_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+
+}
